@@ -12,14 +12,13 @@ This application is a back-end for an E-Commerce site, allowing you to perform C
 
 ## Installation
 User will need to do the following; install npm libaries, create a .env file including entires for the ecommerce_db. Set-Up CLI Commands from project root directory:
-
->npm i<b>
->cd db or right click intergrated terminal on schema.sql<b>
->mysql -u root -p, enter psswrd<b>
->SOURCE schema.sql<b>
->exit<b>
->cd ..<b>
->npm run seed<b>
+>npm i<br>
+>cd db or right click intergrated terminal on schema.sql<br>
+>mysql -u root -p, enter psswrd<br>
+>SOURCE schema.sql<br>
+>exit<br>
+>cd ..<br>
+>npm run seed<br>
 
 
 ## Usage
