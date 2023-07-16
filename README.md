@@ -16,10 +16,10 @@ User will need to do the following; install npm libaries, create a .env file inc
 >npm i <b>
 >cd db or right click intergrated terminal on schema.sql <b>
 >mysql -u root -p, enter psswrd <b>
->SOURCE schema.sql
->exit 
->cd .. 
->npm run seed
+>SOURCE schema.sql <b>
+>exit <b>
+>cd .. <b>
+>npm run seed <b>
 
 
 ## Usage
